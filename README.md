@@ -1,6 +1,6 @@
 # adembz
 
-adembz (A Dumb Esolang Made By Zaky) is an esoteric programming language that are designed to be just using alphabet, number and parenthases.
+adembz (A Dumb Esolang Made By Zaky) is an esoteric programming language that used alphabet, number and parenthases to code.
 
 adembz is a cell based memory language, 10.000 cell memory filled with unsigned 8 bit integer 0, with external variable called factor with unsigned 8 bit integer 1.
 
